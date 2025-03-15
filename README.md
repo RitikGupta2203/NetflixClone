@@ -123,9 +123,9 @@ README.md
 .gitignore: Specifies which files and directories to ignore in the git version control.
 package.json: Contains metadata about the project and its dependencies.
 ```
-###SCREENSHOTS:
-<img width="1440" alt="Screenshot 2025-03-15 at 7 15 18 PM" src="https://github.com/user-attachments/assets/c5837cb2-1603-49db-991d-1e18b3f71129" />
 
+##SCREENSHOTS:
+<img width="1440" alt="Screenshot 2025-03-15 at 7 15 18 PM" src="https://github.com/user-attachments/assets/c5837cb2-1603-49db-991d-1e18b3f71129" />
 
 <img width="1440" alt="Screenshot 2025-03-15 at 7 15 14 PM" src="https://github.com/user-attachments/assets/8ec489ef-f038-4c28-a6c3-131a85728585" />
 
@@ -134,4 +134,3 @@ package.json: Contains metadata about the project and its dependencies.
 <img width="1440" alt="Screenshot 2025-03-15 at 7 13 09 PM" src="https://github.com/user-attachments/assets/3c8ca6d3-26ba-40c7-9909-9598854844bb" />
 
 <img width="1440" alt="Screenshot 2025-03-15 at 7 12 33 PM" src="https://github.com/user-attachments/assets/f095a4ca-4769-4b6d-8877-ed0bbf0d5b40" />
-
